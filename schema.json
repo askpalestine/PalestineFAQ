@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "description": "Schema for managing questions, answers, and responders metadata.",
+  "properties": {
+    "questions": {
+      "type": "array",
+      "description": "List of questions and associated answers.",
+      "items": {
+        "type": "object",
+        "description": "Metadata for a single question.",
+        "properties": {
+          "id": {
+            "type": "number",
+            "description": "Unique identifier for the question."
+          },
+          "variants": {
+            "type": "array",
+            "description": "Different textual variants of the question.",
+            "items": {
+              "type": "string",
+              "description": "A textual variant of the question."
+            }
+          },
+          "answerIds": {
+            "type": "array",
+            "description": "IDs corresponding to answers related to the question.",
+            "items": {
+              "type": "number",
+              "description": "Unique identifier for an answer."
+            }
+          }
+        },
+        "required": ["id", "variants"]
+      }
+    },
+    "answers": {
+      "type": "array",
+      "description": "List of answers.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number",
+            "description": "Unique identifier for the answer."
+          },
+          "text": {
+            "type": "string",
+            "description": "A markdown of the content of the answer."
+          },
+          "responderId": {
+            "type": "number",
+            "description": "Unique identifier of the responder who provided the answer."
+          },
+          "source": {
+            "type": "object",
+            "description": "Details about the source of the answer.",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["youtube", "twitter", "googledoc", "website"],
+                "description": "The type of source providing the answer."
+              },
+              "reference": {
+                "type": "string",
+                "format": "uri",
+                "description": "A URI linking to the actual source of the answer."
+              }
+            },
+            "required": ["type", "reference"]
+          }
+        },
+        "required": ["id", "text", "responderId", "source"],
+        "description": "Metadata for a single answer."
+      }
+    },
+    "responders": {
+      "type": "array",
+      "description": "List of responders who are public or known figures, including their metadata.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique identifier for the source."
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the source (person or entity)."
+          },
+          "type": {
+            "type": "string",
+            "enum": ["person", "organization", "community"],
+            "description": "Type of the source, either a person or an organization."
+          },
+          "bio": {
+            "type": "string",
+            "description": "A markdown of a short biography or description of the source."
+          }
+        },
+        "required": ["id", "name", "bio"],
+        "description": "Metadata for a single responder."
+      }
+    }
+  },
+  "required": ["questions", "answers", "responders"]
+}

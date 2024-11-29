@@ -1,0 +1,666 @@
+[
+  {
+    "id": 3877192235,
+    "variants": [
+      "Do you condemn Hamas?"
+    ],
+    "answerIds": [
+      3470496102,
+      2332417880,
+      1600904205,
+      1304315786,
+      3365437775,
+      3419435052,
+      1522123622,
+      1615530496,
+      323479889
+    ]
+  },
+  {
+    "id": 3006751469,
+    "variants": [
+      "Isn't anti-Zionism or criticism of Israeli policies anti-semitic?",
+      "Isn't saying free Palestine anti-semitic?",
+      "Isn't saying from the river to the see Palestine will be free anti-semitic?",
+      "Can you be Jewish and anti-Zionist?"
+    ],
+    "answerIds": [
+      3260706046,
+      62396797,
+      4253193575,
+      2396752862,
+      3038078369,
+      361472764,
+      3044327279
+    ]
+  },
+  {
+    "id": 1773753107,
+    "variants": [
+      "Are Israel’s recent peace agreements with several Arab countries a step in the right direction?"
+    ],
+    "answerIds": [
+      2445129852
+    ]
+  },
+  {
+    "id": 1535458945,
+    "variants": [
+      "Whose land is this?",
+      "Isn't the two-state-solution fair?",
+      "Do Zionists have any historical claim to the lands of Israel?"
+    ],
+    "answerIds": [
+      524142859,
+      1458703748,
+      283783547,
+      2352163560,
+      4148149677
+    ]
+  },
+  {
+    "id": 2568729123,
+    "variants": [
+      "Why is the Israel-Palestine war happening?",
+      "Isn't attacking Israel anti-semitic?",
+      "Doesn’t Hamas want to kill all jews?"
+    ],
+    "answerIds": [
+      1301171355,
+      4187317669,
+      3863291296
+    ]
+  },
+  {
+    "id": 1276649633,
+    "variants": [
+      "Why hasn't Hamas built a more prosperous Gaza?",
+      "Why they haven't built bomb shelters where civilians can hide during bombardment?"
+    ],
+    "answerIds": [
+      4247350737,
+      3843862840,
+      3527672079
+    ]
+  },
+  {
+    "id": 1234424797,
+    "variants": [
+      "Aren't there Israelis that got beheaded?",
+      "Didn't Hamas murder 1,500 civilians from villages and people at the musical festival?",
+      "What is the evidence that Hamas did not behead children, kill pregnant women, and kidnap children, as they say on October 7?"
+    ],
+    "answerIds": [
+      3019401293,
+      3178402056,
+      3220307170,
+      23429435
+    ]
+  },
+  {
+    "id": 2152824717,
+    "variants": [
+      "Wasn't the attack on the Al-Ahli Arab / Baptist Hospital a rocket malfunction from Hamas?"
+    ],
+    "answerIds": [
+      2951741429,
+      2654900554
+    ]
+  },
+  {
+    "id": 2075075973,
+    "variants": [
+      "Why doesn't Hamas give Israeli children and captives back?"
+    ],
+    "answerIds": [
+      3824868360,
+      4069394009,
+      1121907116,
+      2137261574,
+      3878801682
+    ]
+  },
+  {
+    "id": 3716433224,
+    "variants": [
+      "Didn't an old woman who was hostage of Hamas said it was hell?",
+      "Weren't captives treated badly by Hamas?"
+    ],
+    "answerIds": [
+      3534773090,
+      3609156120
+    ]
+  },
+  {
+    "id": 1957582035,
+    "variants": [
+      "What's a proportional response?",
+      "Isn't it Hamas that started this? What were they expecting?",
+      "Weren't Palestinians living well before Hamas and before what happened on the 7th of October?",
+      "What are the benefits of Hamas's rockets if they hurt your cause, bring condemnations not victory?"
+    ],
+    "answerIds": [
+      2302604085,
+      2610141251,
+      3117346315,
+      895918999,
+      265124000,
+      1800590558
+    ]
+  },
+  {
+    "id": 3922920055,
+    "variants": [
+      "Doesn't Israel have the right to defend itself after October the 7th?",
+      "Why are you accusing them of genocide?",
+      "Doesn't Israel has the right to exist? and doesn't Jewish people deserve a homeland?",
+      "Don't Jews and Israelis have a right to fear for their lives too right now?"
+    ],
+    "answerIds": [
+      765064705,
+      2787927916,
+      4157037524,
+      1737195364,
+      1500479971,
+      3942158222,
+      38287913,
+      254241936
+    ]
+  },
+  {
+    "id": 2367269582,
+    "variants": [
+      "What are Israelis supposed to do when Hamas use civilians as human shields?"
+    ],
+    "answerIds": [
+      758045240,
+      4131074122
+    ]
+  },
+  {
+    "id": 2076685521,
+    "variants": [
+      "Didn't Israel tell people to evacuate to the South?"
+    ],
+    "answerIds": [
+      603626094,
+      351407104
+    ]
+  },
+  {
+    "id": 4137875173,
+    "variants": [
+      "Doesn't Israel warn civilians before bombing?"
+    ],
+    "answerIds": [
+      840977546,
+      3458389549
+    ]
+  },
+  {
+    "id": 2622493891,
+    "variants": [
+      "Why should Israel care if the Hamas spokesman is okay with Palestinian losses for Gaza's liberation?"
+    ],
+    "answerIds": [
+      3311123058
+    ]
+  },
+  {
+    "id": 710273090,
+    "variants": [
+      "Shouldn't Israel bomb the Al Shifa Hospital after knowing that there is a Hamas command and control under it?"
+    ],
+    "answerIds": [
+      444538499,
+      3872121290,
+      3970410603
+    ]
+  },
+  {
+    "id": 396843060,
+    "variants": [
+      "Don't the Palestinians deserve being targeted as well because they voted for Hamas?"
+    ],
+    "answerIds": [
+      3786688625
+    ]
+  },
+  {
+    "id": 209518781,
+    "variants": [
+      "Why should Israel accept a ceasefire if Hamas said they would do it again?"
+    ],
+    "answerIds": [
+      2085421832
+    ]
+  },
+  {
+    "id": 1492827557,
+    "variants": [
+      "Why are you calling Israel an apartheid state?"
+    ],
+    "answerIds": [
+      3818351757
+    ]
+  },
+  {
+    "id": 1391110673,
+    "variants": [
+      "Israel withdrew from Gaza in 2005, why are Israelis being attacked?"
+    ],
+    "answerIds": [
+      195995782
+    ]
+  },
+  {
+    "id": 3943879828,
+    "variants": [
+      "Do you think this happened because Saudi Arabia was normalising the relationship with Israel? "
+    ],
+    "answerIds": [
+      151983837
+    ]
+  },
+  {
+    "id": 110990078,
+    "variants": [
+      "Didn't Arabs kill Jews unprovoked in the Hebron massacre?"
+    ],
+    "answerIds": [
+      509690710
+    ]
+  },
+  {
+    "id": 2264713942,
+    "variants": [
+      "Why doesn't Hamas unite with West Bank's Fatah for their common goal instead of maintaining political divisions?"
+    ],
+    "answerIds": [
+      4218057026,
+      3623179040
+    ]
+  },
+  {
+    "id": 2093758404,
+    "variants": [
+      "Would it help Hamas gain global support if they publicly shared their rules against civilian targeting and actions against violators?"
+    ],
+    "answerIds": [
+      2459895743
+    ]
+  },
+  {
+    "id": 3229892091,
+    "variants": [
+      "What happens if Palestinians rule all lands as one state? How will they treat non-Palestinians and ensure peace?",
+      "Won't Palestinians kill Israelis / Jews if they don't kill them first?"
+    ],
+    "answerIds": [
+      729343115
+    ]
+  },
+  {
+    "id": 269191831,
+    "variants": [
+      "How is Israel violating international law?"
+    ],
+    "answerIds": [
+      717388995,
+      1327044613,
+      6821393
+    ]
+  },
+  {
+    "id": 1335270418,
+    "variants": [
+      "How can I help Palestine?"
+    ],
+    "answerIds": [
+      2774615582
+    ]
+  },
+  {
+    "id": 3724147339,
+    "variants": [
+      "Why isn't mainstream media reliable?",
+      "Why isn't BBC, ABC, New York Times, The Guardian, etc.. reliable?",
+      "I am genuinely confused, how to know who to trust?"
+    ],
+    "answerIds": [
+      3629827228,
+      430060275
+    ]
+  },
+  {
+    "id": 433026501,
+    "variants": [
+      "There's no solution that suits both sides. What is Israel supposed to do?"
+    ],
+    "answerIds": [
+      4105400456
+    ]
+  },
+  {
+    "id": 1059955808,
+    "variants": [
+      "Why don’t the Palestinians just leave?"
+    ],
+    "answerIds": [
+      2162786026
+    ]
+  },
+  {
+    "id": 2772915688,
+    "variants": [
+      "Why don’t Palestinians just resist peacefully?"
+    ],
+    "answerIds": [
+      1332347810,
+      1757723881
+    ]
+  },
+  {
+    "id": 2787865212,
+    "variants": [
+      "Isn't Israel targeting Hamas, while Hamas attacked Israeli civilians?"
+    ],
+    "answerIds": [
+      3482487767
+    ]
+  },
+  {
+    "id": 95693392,
+    "variants": [
+      "Doesn't the US's defense of Israel further validate Israel's rightful actions and positions?",
+      "Why is the US / America / United States defending Israel?",
+      "What's the American Israel Public Affairs Committee (AIPAC)?"
+    ],
+    "answerIds": [
+      1451539971,
+      3171175986,
+      968481095,
+      3561590871
+    ]
+  },
+  {
+    "id": 435902927,
+    "variants": [
+      "Hasn't Israel made repeated peace offerings to the Palestinians which they have rejected?"
+    ],
+    "answerIds": [
+      1103041227
+    ]
+  },
+  {
+    "id": 3053125756,
+    "variants": [
+      "Is Hamas a terrorist organization?"
+    ],
+    "answerIds": [
+      2867931721
+    ]
+  },
+  {
+    "id": 2066076162,
+    "variants": [
+      "Isn't this a very complex issue that seems unsolvable?",
+      "Why can’t I be on both sides? I just want peace.",
+      "Won't things will go back to normal eventually? Israel will eventually accept a peace-deal.",
+      "Isn't this too much and too sad for me to handle? I have to protect my peace."
+    ],
+    "answerIds": [
+      32033766,
+      352101399,
+      43816875,
+      3261794179
+    ]
+  },
+  {
+    "id": 2957597620,
+    "variants": [
+      "Isn't this a religious war?",
+      "How to not let Islam or Christianity or Judaism become scapegoats to justify the suffering of people in Gaza?",
+      "Isn't it just about Muslims want to conquer the world?"
+    ],
+    "answerIds": [
+      917674484,
+      1897807407
+    ]
+  },
+  {
+    "id": 2507207088,
+    "variants": [
+      "Why can’t Palestine just turn the water and electricity back on?"
+    ],
+    "answerIds": [
+      2523042848
+    ]
+  },
+  {
+    "id": 3025838337,
+    "variants": [
+      "What is Zionism? What does it mean if I denounce Zionism?"
+    ],
+    "answerIds": [
+      2421495898
+    ]
+  },
+  {
+    "id": 1690493692,
+    "variants": [
+      "How many Palestinians have died since October 7?",
+      "How many Israelis have died since October 7?"
+    ],
+    "answerIds": [
+      13349132
+    ]
+  },
+  {
+    "id": 3364199561,
+    "variants": [
+      "How to learn more about Palestine?",
+      "How to learn more about the war?",
+      "How to keep myself educated about the history of Palestine?"
+    ],
+    "answerIds": [
+      974295715
+    ]
+  },
+  {
+    "id": 1186379750,
+    "variants": [
+      "How to solve Israel Palestine conflict for good?"
+    ],
+    "answerIds": [
+      455417067
+    ]
+  },
+  {
+    "id": 416529302,
+    "variants": [
+      "How to know whether I am sincere in my activism? "
+    ],
+    "answerIds": [
+      3807198980
+    ]
+  },
+  {
+    "id": 2619822057,
+    "variants": [
+      "Is Israel a Jewish or a Zionist state?"
+    ],
+    "answerIds": [
+      3596863445
+    ]
+  },
+  {
+    "id": 1804021179,
+    "variants": [
+      "Why was Palestine chosen by the Jews / Zionists / Israelis?",
+      "Why did Israel occupy Palestine?"
+    ],
+    "answerIds": [
+      2272053725
+    ]
+  },
+  {
+    "id": 459908155,
+    "variants": [
+      "Why doesn't Muslim countries fight for Palestine?"
+    ],
+    "answerIds": [
+      856727960,
+      4135275275
+    ]
+  },
+  {
+    "id": 535048909,
+    "variants": [
+      "Gazan population increased from 645 thousand to 2.1 million between 1990 and 2022, what genocide are you talking about?"
+    ],
+    "answerIds": [
+      2877787271
+    ]
+  },
+  {
+    "id": 4071112975,
+    "variants": [
+      "Which companies support Israel?",
+      "Which companies to boycott?"
+    ],
+    "answerIds": [
+      2444286130
+    ]
+  },
+  {
+    "id": 12333592,
+    "variants": [
+      "Are Palestinians getting help from Egypt?",
+      "Why doesn't Islamic countries help Gaza?"
+    ],
+    "answerIds": [
+      1487550032,
+      2585201328
+    ]
+  },
+  {
+    "id": 2765232164,
+    "variants": [
+      "What is the fate of Palestine and the jews according to the Quran?"
+    ],
+    "answerIds": [
+      3519902184
+    ]
+  },
+  {
+    "id": 1164106858,
+    "variants": [
+      "Why do you say that Israelis are intending Genocide?",
+      "What are some evidence on Israeli incitement to Genocide?"
+    ],
+    "answerIds": [
+      1110692008
+    ]
+  },
+  {
+    "id": 2828392764,
+    "variants": [
+      "What is the battle of Karameh / Al-Karama (معركة الكرامة)?"
+    ],
+    "answerIds": [
+      3218286880
+    ]
+  },
+  {
+    "id": 1229237077,
+    "variants": [
+      "What do Palestinians think of the Camp David Agreement?",
+      "Was the Camp David Agreement a mistake?"
+    ],
+    "answerIds": [
+      3915714141,
+      2912225514
+    ]
+  },
+  {
+    "id": 229673395,
+    "variants": [
+      "Was the Oslo Agreement / Accords a mistake?",
+      "Was the Oslo Agreement / Accords fair?"
+    ],
+    "answerIds": [
+      2448619580,
+      1418356788
+    ]
+  },
+  {
+    "id": 1620218495,
+    "variants": [
+      "Who is answering these questions? "
+    ],
+    "answerIds": [
+      2961343434
+    ]
+  },
+  {
+    "id": 3356336064,
+    "variants": [
+      "Are Palestinians fasting in Ramadan?"
+    ],
+    "answerIds": [
+      2417685228
+    ]
+  },
+  {
+    "id": 2896794691,
+    "variants": [
+      "What are the Abraham Accords?"
+    ],
+    "answerIds": [
+      3203991589,
+      510061042
+    ]
+  },
+  {
+    "id": 2009760062,
+    "variants": [
+      "Were the Geneva Accords fair?"
+    ],
+    "answerIds": [
+      727369457
+    ]
+  },
+  {
+    "id": 1859117932,
+    "variants": [
+      "Why hasn't Israel been able to finish Hamas with the help of the USA?"
+    ],
+    "answerIds": []
+  },
+  {
+    "id": 1911724554,
+    "variants": [
+      "Don't 165 of the 193 UN members recognize Israel?"
+    ],
+    "answerIds": []
+  },
+  {
+    "id": 3015374311,
+    "variants": [
+      "Doesn't calling for an Intifada essentially mean advocating for violence and terrorism?"
+    ],
+    "answerIds": [
+      2670977874
+    ]
+  },
+  {
+    "id": 1638871313,
+    "variants": [
+      "Isn't the scale of killing on October the 7th unprecedented in the Palestinian-Israeli conflict?"
+    ],
+    "answerIds": [
+      2597016667
+    ]
+  }
+]
